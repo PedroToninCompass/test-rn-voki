@@ -1,6 +1,6 @@
 # Integração Voki x React Native
 
-Este projeto demonstra a integração da solução `Voki` em um aplicativo``React Native` usando a biblioteca `react-native-webview` para renderizar a página dentro da aplicação.
+Este projeto demonstra a integração da solução `Voki` em um aplicativo `React Native` usando a biblioteca `react-native-webview` para renderizar a página dentro da aplicação.
 
 ## Permissões
 
